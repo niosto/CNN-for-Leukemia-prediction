@@ -226,10 +226,9 @@ Los resultados de cada modelo incluyen:
 
 ## Consideraciones
 
-- El entrenamiento de 100 épocas puede requerir tiempo considerable dependiendo del hardware disponible
-- Se recomienda el uso de GPU para acelerar el entrenamiento
-- Los modelos preentrenados (ResNet-18) requieren descarga inicial de pesos desde Internet
-- El conjunto de datos se descarga automáticamente pero requiere credenciales de Kaggle configuradas
+El entrenamiento de 100 épocas puede requerir tiempo considerable dependiendo del hardware disponible  
+Se recomienda el uso de GPU para acelerar el entrenamiento  
+Los modelos preentrenados (ResNet-18) requieren descarga inicial de pesos desde Internet  
 
 ## Trabajo Futuro
 
@@ -247,12 +246,6 @@ Posibles extensiones del proyecto incluyen:
 - Arquitectura de referencia: ResNet-18 (He et al., 2016)
 
 ## Autores
-Emanuel González Quintero
-Martín Valencia Vallejo
-Nicolás Ospina Torres
-
-Proyecto desarrollado como parte de un estudio de clasificación de leucemia mediante técnicas de aprendizaje profundo.
-
-## Licencia
-
-Este proyecto se proporciona con fines educativos y de investigación.
+Emanuel González Quintero  
+Martín Valencia Vallejo  
+Nicolás Ospina Torres  
